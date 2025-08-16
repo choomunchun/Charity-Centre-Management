@@ -1,0 +1,9 @@
+ID,Name,Address,Phone Number,Email,Donee Type,Organization Name
+DE001,a,Jalan abc1,0121231234,abc@abc.com,Individual,
+DE003,abc223,abc233,0192342233,abc@a.com,Individual,
+DE004,ab12,ab12,0121231234,ab12@ab.com,Individual,
+DE005,anew,anew,0122323245,anew@a.com,Individual,
+DE006,WenKang,Jalan Bunga Raya Setapak,0192342345,wenkang@gmail.com,Individual,
+DE007,Wk,jalan wk,0132341234,wk@wk.com,Organization,wkOrganization
+DE008,wk2,"Jalan Tbr , Kuala Lumpur",0123123123,wk2@wk2.com,Individual,
+DE009,Test,"Jalan TBR , Setapak , Kuala Lumpur",0129324321,test@gmail.com,Individual,
